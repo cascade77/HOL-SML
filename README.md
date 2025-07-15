@@ -2,7 +2,7 @@
   
 - I’m learning SML (using the SML/NJ compiler) and HOL from the official site [https://hol-theorem-prover.org/](https://hol-theorem-prover.org/).
 
-#resources: 
+resources: 
 - [Standard ML of New Jersey (SML/NJ)](https://www.smlnj.org/)
 - [HOL Theorem Prover](https://hol-theorem-prover.org/)
 - *The HOL System Tutorial* (for HOL Trindemossen-1)
@@ -11,13 +11,6 @@
 - `sml/` — Code written while learning Standard ML
 - `hol/` — Code and examples written inside the HOL theorem prover
 - `notes/` — My notes to understand the ideas more clearly
-
-
-
-
-
-
-- I’m still new to formal methods, but I believe sharing learning journeys helps others and maybe others learning HOL or SML will benefit from this too.
 
 
 
